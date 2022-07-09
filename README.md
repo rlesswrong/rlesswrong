@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rlesswrong
 - 👀 I’m interested in lesswrong and search for the truth of the universe
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on lesswrong
+- 🌱 My blog website: https://rlesswrong.github.io/lesswrong/
 - 📫 How to reach me : rlesswrong@gmail.com
 
 <!---
